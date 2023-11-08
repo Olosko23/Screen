@@ -18,7 +18,7 @@ function App() {
           </div>
           <div className="bg-blue-400 h-[40vh] rounded-lg ">WINDOW 2</div>
         </div>
-        <div className="flex flex-col basis-1/3 space-y-5">
+        <div className="flex flex-col basis-1/3 space-y-4">
           <div className="bg-blue-500 h-[30vh] rounded-lg ">WINDOW3</div>
           <div className="bg-blue-600 h-[30vh] rounded-lg ">WINDOW4</div>
           <div className="bg-blue-700 h-[30vh] rounded-lg ">WINDOW5</div>
