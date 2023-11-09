@@ -11,12 +11,12 @@ function App() {
     >
       <div className="flex space-x-2 justify-around px-4 py-2 w-full">
         <div className="flex flex-col w-full basis-2/3 space-y-5">
-          <div className="bg-blue-200 h-[50vh] rounded-lg ">
+          <div className="bg-blue-200 h-[40vh] rounded-lg ">
             <div>
               <Weather />
             </div>
           </div>
-          <div className="bg-blue-400 h-[40vh] rounded-lg ">WINDOW 2</div>
+          <div className="bg-blue-400 h-[30vh] rounded-lg ">WINDOW 2</div>
         </div>
         <div className="flex flex-col basis-1/3 space-y-4">
           <div className="bg-blue-500 h-[30vh] rounded-lg ">WINDOW3</div>
